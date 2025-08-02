@@ -1,0 +1,29 @@
+# Personal Expense Tracker - Enhanced Requirements
+# Uncomment packages below to add advanced features to your expense tracker
+
+# Data Analysis and Visualization
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Excel Export (alternative to CSV)
+openpyxl>=3.0.0
+
+# Terminal UI Enhancement
+colorama>=0.4.6
+tabulate>=0.8.9
+
+# Date/Time Handling Enhancement
+python-dateutil>=2.8.0
+
+# Data Validation
+pydantic>=1.8.0
+
+# Configuration Management
+pyyaml>=6.0
+
+# Optional: GUI Framework
+# tkinter  # Usually comes with Python installation
+
+# Optional: Database Support
+# sqlite3  # Built-in with Python 
