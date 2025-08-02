@@ -1,4 +1,8 @@
-# Personal Expense Tracker
+# 💰 Personal Expense Tracker
+
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/personal-expense-tracker)
 
 A comprehensive command-line expense tracking application built in Python that helps you manage your personal finances with ease.
 
@@ -199,3 +203,4 @@ For issues or questions:
 
 
 **Happy Expense Tracking! 💰📊** 
+
