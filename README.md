@@ -48,38 +48,6 @@ If you prefer to install packages individually:
 pip install pandas matplotlib seaborn openpyxl colorama tabulate python-dateutil pydantic pyyaml
 ```
 
-## 📖 Usage
-
-### Main Menu Options
-1. **Expenses Management**
-   - Add new expenses
-   - List all expenses
-   - Edit existing expenses
-   - Delete expenses
-
-2. **Balance Management**
-   - Update bank/cash balances
-   - View balance history
-
-3. **Reports & Analysis**
-   - View total expenses
-   - Category summary
-   - Find highest expense
-   - Budget alerts
-   - Export to Excel/CSV
-
-4. **Settings & Tools**
-   - Add custom categories
-   - Clear memory
-   - Reload categories
-   - Reset to default categories
-
-### Adding an Expense
-1. Select "Expenses Management" → "Add Expense"
-2. Enter amount, description, category, and payment method
-3. Choose current date or enter custom date
-4. Expense is automatically saved
-
 ### Exporting Data
 1. Go to "Reports & Analysis" → "Export to Excel"
 2. Choose export type:
@@ -228,5 +196,6 @@ For issues or questions:
 - **v1.3** - Added memory system and improved UI
 
 ---
+
 
 **Happy Expense Tracking! 💰📊** 
